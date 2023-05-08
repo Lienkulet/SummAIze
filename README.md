@@ -6,6 +6,5 @@ Tailwind CSS
 ReactJs
 Vite
 Redux 
-RapidApi
 
 
